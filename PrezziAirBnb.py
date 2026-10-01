@@ -5,7 +5,7 @@ def CalcoloCoefficiente(commissione,iva,cedolare):
 
 
 st.title("CALCOLATORE TARIFFE AIRBNB - CSL")
-st.write("V1.01")
+st.write("V1.02")
 st.divider()
 
 colUno, colDue = st.columns([1,1])
