@@ -4,7 +4,7 @@ def CalcoloCoefficiente(commissione,iva,cedolare):
     return 1 - (commissione + (commissione * iva)) - cedolare
 
 
-st.title("CALCOLATORE TARIFFE AIRBNB")
+st.title("CALCOLATORE TARIFFE AIRBNB - CSL")
 
 st.divider()
 
